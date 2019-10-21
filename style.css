@@ -736,3 +736,14 @@ footer {
 .footer-social i:hover {
 	color: #000000;
 }
+
+.img_computers{
+	width: 110px;
+	height: 82px;
+}
+.computer_blocks{
+	height: 390px;
+}
+footer{
+	margin-top: 40px;
+}
