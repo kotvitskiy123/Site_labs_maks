@@ -121,7 +121,7 @@ header .navbar {
 /************ Home css ************/
 
 #home {
-	background: url(img/home-bg.jpg) no-repeat center center;
+	background: url(../img/home-bg.jpg) no-repeat center center;
 	background-size: cover;
 	position: relative;
 	justify-content: center;
@@ -744,6 +744,25 @@ footer {
 .computer_blocks{
 	height: 390px;
 }
-footer{
+/*footer{
 	margin-top: 40px;
+}*/
+
+#header_logo{
+	color: #f03030;
+}
+
+
+#data_computers {
+	padding: 80px 0 160px;
+	background-color: #000;
+	color: #fff;
+}
+.termheaders{
+	margin-top: 20px;
+}
+.supercomputer_link:hover{
+	background-color: red;
+	padding: 5px;
+	/*text-transform:uppercase;*/
 }
